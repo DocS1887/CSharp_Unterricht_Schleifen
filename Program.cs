@@ -44,7 +44,7 @@ namespace schleifenInCSharp
                 Console.WriteLine(i);
             }
 
-            // Übung: Gebt die Zahlen 20 bis einschließlich 50 mit einer Schleife aus.
+            // Übung: Gebt die Zahlen 20 bis einschließlich 50 mit einer Schleife aus. Ich ändere was
 
         }
     }
